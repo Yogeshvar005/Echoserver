@@ -73,10 +73,10 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 ### Server side:
-![image](https://user-images.githubusercontent.com/94164665/230758905-6b305563-6c97-4644-9d02-061623b77159.png)
+![238239195-07c565aa-aa58-42b2-955b-4924f2ec7bb7](https://github.com/Yogeshvar005/Echoserver/assets/113497367/a6d896eb-bb90-4144-b78e-dac413af0b5b)
 
 ### Client side:
-![image](https://user-images.githubusercontent.com/94164665/230758640-ade6f2f9-3c15-48c0-9e5e-0b7fa8fa42c9.png)
+![238239247-573f26b2-b5d9-414e-9a03-836c8f627306](https://github.com/Yogeshvar005/Echoserver/assets/113497367/d36b87d7-902a-4d09-983a-4745f693999b)
 
 ## RESULT:
 The program is executed successfully.
